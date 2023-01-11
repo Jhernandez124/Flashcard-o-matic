@@ -31,8 +31,4 @@ Starter code, tests, and challenege were created by the Thinkful Team for the En
 
 - Please visit the Thinkful website by clicking [here](https://www.thinkful.com/)
 
-## Deployment
-
-App frontend has been deployed with Heroku and can be accessed [here](https://flash-o-matic.herokuapp.com/). 
-Please note: API needs to be launched in order for app to be functional
 
